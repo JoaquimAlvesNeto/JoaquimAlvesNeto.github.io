@@ -1378,12 +1378,12 @@ body {
 }
 .cid-r8wW5di6c1 .navbar {
   padding: .5rem 0;
-  background: #ff3366;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-r8wW5di6c1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #ff3366;
+  background: #2e2e2e;
 }
 .cid-r8wW5di6c1 a {
   font-style: normal;
@@ -1471,7 +1471,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r8wW5di6c1 .dropdown .dropdown-menu {
-  background: #ff3366;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
@@ -1799,16 +1799,16 @@ body {
 .cid-r8xfexLGfz {
   padding-top: 90px;
   padding-bottom: 90px;
-  background-color: #e4fe4b;
+  background-color: #073b4c;
 }
 .cid-r8xfexLGfz .mbr-section-subtitle {
-  color: #4f4943;
+  color: #ffffff;
   text-align: center;
   font-weight: 300;
 }
 .cid-r8xfexLGfz .timeline-text-content {
   padding: 2rem 2.5rem;
-  background: #e7e7e7;
+  background: #ffffff;
   margin-right: 2rem;
   transition: all .4s;
 }
@@ -1845,7 +1845,7 @@ body {
   text-align: center;
   border-radius: 50%;
   display: inline-block;
-  background-color: #e7e7e7;
+  background-color: #ffffff;
   top: 20px;
   margin-left: -30px;
 }
@@ -1864,7 +1864,7 @@ body {
   position: absolute;
   content: "";
   width: 2px;
-  background-color: #e7e7e7;
+  background-color: #ffffff;
   left: calc(50% - 1px);
   height: calc(100% + 4rem);
 }
@@ -1891,7 +1891,7 @@ body {
   color: #465052;
 }
 .cid-r8xfexLGfz .mbr-section-title {
-  color: #232323;
+  color: #ffffff;
 }
 .cid-r8xewvgM2D {
   padding-top: 90px;
@@ -1917,7 +1917,7 @@ body {
   color: #ffffff;
 }
 .cid-r8xewvgM2D .mbr-testimonial .panel-item {
-  background-color: #55b4d4;
+  background-color: #2e2e2e;
 }
 .cid-r8xewvgM2D .mbr-testimonial .card-block {
   -webkit-flex-grow: 0;
@@ -2054,12 +2054,12 @@ body {
 }
 .cid-r8wW5di6c1 .navbar {
   padding: .5rem 0;
-  background: #0f7699;
+  background: #2e2e2e;
   transition: none;
   min-height: 77px;
 }
 .cid-r8wW5di6c1 .navbar-dropdown.bg-color.transparent.opened {
-  background: #0f7699;
+  background: #2e2e2e;
 }
 .cid-r8wW5di6c1 a {
   font-style: normal;
@@ -2147,7 +2147,7 @@ body {
   padding-bottom: 0;
 }
 .cid-r8wW5di6c1 .dropdown .dropdown-menu {
-  background: #0f7699;
+  background: #2e2e2e;
   display: none;
   position: absolute;
   min-width: 5rem;
