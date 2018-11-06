@@ -2480,8 +2480,8 @@ body {
 .cid-r8A2WTXWtC {
   padding-top: 120px;
   padding-bottom: 30px;
-  background-color: #ffffff;
-  background: linear-gradient(45deg, #ffffff, #cebfaf);
+  background-color: #cebfaf;
+  background: linear-gradient(45deg, #cebfaf, #2e2e2e);
 }
 .cid-r8A2WTXWtC .mbr-section-subtitle {
   color: #767676;
@@ -2491,18 +2491,19 @@ body {
 }
 .cid-r8A2WTXWtC H2 {
   text-align: right;
+  color: #ffffff;
 }
 .cid-r8xnwsQLZ7 {
   padding-top: 75px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-r8xnwsQLZ7 .mbr-text,
 .cid-r8xnwsQLZ7 blockquote {
   color: #767676;
 }
 .cid-r8xnwsQLZ7 B {
-  color: #465052;
+  color: #4f4943;
 }
 .cid-r8xnwsQLZ7 DIV {
   text-align: left;
@@ -2572,8 +2573,8 @@ body {
 .cid-r8Co4iBhxL {
   padding-top: 45px;
   padding-bottom: 30px;
-  background-color: #ffffff;
-  background: linear-gradient(45deg, #ffffff, #cebfaf);
+  background-color: #cebfaf;
+  background: linear-gradient(45deg, #cebfaf, #2e2e2e);
 }
 .cid-r8Co4iBhxL .mbr-section-subtitle {
   color: #767676;
@@ -2583,15 +2584,19 @@ body {
 }
 .cid-r8Co4iBhxL H2 {
   text-align: right;
+  color: #ffffff;
 }
 .cid-r8CotJpFvd {
   padding-top: 60px;
   padding-bottom: 60px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-r8CotJpFvd .mbr-text,
 .cid-r8CotJpFvd blockquote {
   color: #767676;
+}
+.cid-r8CotJpFvd B {
+  color: #4f4943;
 }
 .cid-r8CowVcG6m {
   padding-top: 0px;
@@ -2659,7 +2664,7 @@ body {
   padding-top: 45px;
   padding-bottom: 45px;
   background-color: #cebfaf;
-  background: linear-gradient(45deg, #cebfaf, #ffffff);
+  background: linear-gradient(45deg, #cebfaf, #2e2e2e);
 }
 .cid-r8Cih1bX1V .mbr-section-subtitle {
   color: #767676;
@@ -2669,15 +2674,19 @@ body {
 }
 .cid-r8Cih1bX1V H2 {
   text-align: right;
+  color: #ffffff;
 }
 .cid-r8CiR01d60 {
   padding-top: 60px;
   padding-bottom: 30px;
-  background-color: #ffffff;
+  background-color: #efefef;
 }
 .cid-r8CiR01d60 .mbr-text,
 .cid-r8CiR01d60 blockquote {
   color: #767676;
+}
+.cid-r8CiR01d60 B {
+  color: #4f4943;
 }
 .cid-r8Cj1lngPt {
   padding-top: 0px;
